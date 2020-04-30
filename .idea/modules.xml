@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" filepath="$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftwareDesign.iml" filepath="$PROJECT_DIR$/SoftwareDesign.iml" />
     </modules>
   </component>
