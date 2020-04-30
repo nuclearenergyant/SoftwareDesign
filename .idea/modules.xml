@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CombinationMode/CombinationMode.iml" filepath="$PROJECT_DIR$/CombinationMode/CombinationMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadePattern/FacadePattern.iml" filepath="$PROJECT_DIR$/FacadePattern/FacadePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" filepath="$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" />
