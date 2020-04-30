@@ -8,3 +8,4 @@ java之软件设计
 #### 抽象工厂模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/AbstractModel
 #### 组合模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/CombinationMode
 #### 命令模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/CommandPattern
+#### 代理模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/ProxyPattern
