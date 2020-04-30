@@ -7,6 +7,7 @@ java之软件设计
 #### 装饰器模式: https://github.com/nuclearenergyant/SoftwareDesign/tree/master/DecoratorPattern/src/demo01
 #### 抽象工厂模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/AbstractModel
 #### 组合模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/CombinationMode
+java之组合模式——文件夹~文件问题（透明模式）
 #### 命令模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/CommandPattern
 #### 代理模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/ProxyPattern
 #### 外观模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/FacadePattern
