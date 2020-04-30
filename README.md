@@ -9,3 +9,4 @@ java之软件设计
 #### 组合模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/CombinationMode
 #### 命令模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/CommandPattern
 #### 代理模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/ProxyPattern
+#### 外观模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/FacadePattern
