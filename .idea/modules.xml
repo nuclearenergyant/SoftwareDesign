@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractFactory/src/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/src/AbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/AbstractModel/AbstractModel.iml" filepath="$PROJECT_DIR$/AbstractModel/AbstractModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CombinationMode/CombinationMode.iml" filepath="$PROJECT_DIR$/CombinationMode/CombinationMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" filepath="$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
