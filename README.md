@@ -17,3 +17,4 @@ java之外观模式（文件加密）：
 
 现用户需要更换加密方式，请引入抽象外观类重新设计该加密模块，要求符合开闭原则
 #### 克隆模式 （原型模式）：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/Prototype
+#### 策略模式 ：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/StrategyPattern
