@@ -24,3 +24,4 @@ java之外观模式（文件加密）：
 (2) 年龄在10周岁及以下的儿童可享受每张票减免10元的优惠（原始票价需大于等于20元）。
 (3) 影院VIP用户除享受票价半价优惠外还可进行积分，积分累计到一定额度可换取电影院赠送的奖品。
 该系统在将来可能还要根据需要引入新的打折方式。
+#### 职责链模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/BehavioralPattern
