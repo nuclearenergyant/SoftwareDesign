@@ -6,7 +6,7 @@ package demo01;
  * \* Date: 2020/5/13
  * \* Time: 16:04
  * \* Description: www.diandian.在线
- * \* 功能说明：
+ * \* 功能说明：主函数
  * \
  */
 public class Clients {
