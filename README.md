@@ -42,3 +42,6 @@ java之外观模式（文件加密）：
 3）“英雄”拥有英俊的面容，飘逸的长发，并身穿盔甲。
 随着该游戏的升级将不断增加新的角色。
 现使用建造者模式来模拟实现游戏角色的创建。
+#### 适配器模式：https://github.com/nuclearenergyant/SoftwareDesign/tree/master/AdapterPattern/src/demo01
+海尔（Haier）、TCL、海信（Hisense）都是家电制造商，它们都生产电视机（Television）、空调（AirConditioner）、冰箱（Fridge）。现需要设计一个系统，描述这些家电制造商以及它们所制造的电器，要求绘制类图并用Java代码模拟实现。
+
